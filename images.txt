@@ -6,3 +6,4 @@
 # --platform=linux/arm64 xiaoyaliu/alist
 selenium/standalone-chrome
 lscr.io/linuxserver/chrome
+docker.nju.edu.cn/selenium/standalone-chrome:81.0
